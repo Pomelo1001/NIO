@@ -1,0 +1,2 @@
+Some bytes.
+learn by https://www.ibm.com/developerworks/cn/education/java/j-nio/j-nio.html#ma
